@@ -1,4 +1,4 @@
-- 👋 Hi, I’m berri
+- 👋 Hi, I’m a human
 - 👀 I’m interested in Game Development.
 - 🌱 I’m currently learning Python and Pygame.
 - 💞️ Still learning so might not be able to collab

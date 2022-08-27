@@ -1,6 +1,6 @@
 - 👋 hi, im a human
 - 👀 im interested in game gevelopment, robotics and AI
-- 🌱 im currently learning arduino and c++
+- 🌱 im currently learning arduino and sharpening my python skills
 - 📫 emails open
 
 i have a masters degree in procrastination

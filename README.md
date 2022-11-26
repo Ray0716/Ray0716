@@ -1,9 +1,9 @@
-- 👋 hi, im a human
-- 👀 im interested in game gevelopment, robotics and AI
-- 🌱 im currently learning arduino and sharpening my python skills
-- 📫 emails open
+- 👋 hi, my name's Ray
+- 👀 im interested in web gevelopment, robotics and AI
+- 🌱 im currently learning webdev and sharpening my robotics skills
+- 📫 email me!
 
-i have a masters degree in procrastination
+i also have a masters degree in procrastination :)
 
 <!---
 Ray861/Ray861 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

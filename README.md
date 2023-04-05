@@ -1,5 +1,9 @@
 # Hi! I'm Ray
-
+---
+* 14
+* New York, US
+* I do some coding / engineering projects from time to time
+* English / 简体中文
 * Bachelor's Degree in Procrastination
 * Email me
 

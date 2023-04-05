@@ -1,9 +1,9 @@
-- 👋 hi, my name's Ray
-- 👀 im interested in web gevelopment, robotics and AI
-- 🌱 im currently learning webdev and sharpening my robotics skills
-- 📫 email me!
+#Hi! I'm Ray
 
-i also have a masters degree in procrastination :)
+* Bachelor's Degree in Procrastination
+* Email me
+
+![GithubStreak](https://github-readme-streak-stats.herokuapp.com/?user=Ray%208%206%201.&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)
 
 <!---
 Ray861/Ray861 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,12 +1,14 @@
 # Hi! I'm Ray
----
-* 14
+
+* 14, Cancer ♋︎
+* Freshman Year, HS
 * New York, US
 * I do some coding / engineering projects from time to time
 * English / 简体中文
 * Bachelor's Degree in Procrastination
-* Email me
-* 
+* Email me !
+---
+#### Stuff that I use:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />

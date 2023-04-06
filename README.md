@@ -18,7 +18,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" width="42" alt="arduino logo"  />
 </div>
+
 ---
+
 <p><img align="left" src= "https://github-readme-streak-stats.herokuapp.com/?user=Ray%208%206%201.&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly"  /></p>
 
 

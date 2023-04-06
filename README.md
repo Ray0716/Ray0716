@@ -8,7 +8,7 @@
 * Bachelor's Degree in Procrastination
 * Email me !
 ---
-#### Stuff that I use:
+#### Technologies that I use:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
@@ -18,8 +18,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" width="42" alt="arduino logo"  />
 </div>
-
+---
 ![GithubStreak](https://github-readme-streak-stats.herokuapp.com/?user=Ray%208%206%201.&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kritika-pattalam&layout=compact)
 
 
 ###

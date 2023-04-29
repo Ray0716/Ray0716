@@ -9,11 +9,10 @@
 * Email me !
 
 
-
+<img src="https://komarev.com/ghpvc/?username=Ray0716&color=15171a">
 
 ### Languages and Tools:
 
-<img align="right" src="https://profile-counter.glitch.me/Ray0716/count.svg?"  /> 
 
 <div align="left">
 

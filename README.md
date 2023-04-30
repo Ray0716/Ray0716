@@ -1,36 +1,31 @@
-# Hi! I'm Ray
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=430&size=36&duration=3500&pause=1000&color=93D9FF&vCenter=true&width=735&lines=Hi!+I'm+Ray!;%E4%BD%A0%E5%A5%BD%EF%BC%81%E6%88%91%E5%8F%AB%E5%94%90%E7%91%9E+%EF%BC%81;Student+%2B+Aspiring+Developer;Python+%2B+Java+%2B+%E4%BC%9A%E8%AF%B4%E4%B8%AD%E6%96%87;Email+Me!++%E7%BB%99%E6%88%91%E5%8F%91%E4%BF%A1%EF%BC%81)](https://git.io/typing-svg)
 
-* 14, Cancer ♋︎
-* Freshman Year, HS
+
+<section>
+<img src="https://komarev.com/ghpvc/?username=Ray0716&color=363636&style=for-the-badge" style="float:left">
+<img src="https://img.shields.io/github/followers/Ray0716?style=for-the-badge" style="float:left">
+<img src="https://img.shields.io/github/last-commit/Ray0716/Ray0716?style=for-the-badge" style="float:left">
+</section>
+
+<br>
+
+* 14, Freshman Year HS
 * New York, US
-* I do some coding / engineering projects from time to time
+* I do some coding / engineering / robotics projects from time to time
 * English / 简体中文
 * Bachelor's Degree in Procrastination
 * Email me !
 
 
-<img src="https://komarev.com/ghpvc/?username=Ray0716&color=15171a">
 
-### Languages and Tools:
-
-
-<div align="left">
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" width="42" alt="arduino logo"  />
-</div>
+[![My Skills](https://skillicons.dev/icons?i=python,js,nodejs,html,css,arduino,github,stackoverflow,discord)](https://skillicons.dev)
 
 ###
 
 <div align="left">
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ray0716&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
- <img src="https://github-readme-stats.vercel.app/api?username=Ray0716&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+
 </div>
 
 #
@@ -49,12 +44,6 @@
 
 
 
-#
-
-<img src="https://raw.githubusercontent.com/Ray0716/blob/output/snake.yml" alt="Snake animation" />
-
-
-#
 
 
 <!---

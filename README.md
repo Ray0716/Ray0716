@@ -9,7 +9,7 @@
 
 <br>
 
-* 14, Freshman Year HS
+* 15, Soph Year HS
 * New York, US
 * I do some coding / engineering / robotics projects from time to time
 * English / 简体中文

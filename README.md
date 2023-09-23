@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=430&size=36&duration=3500&pause=1000&color=93D9FF&vCenter=true&width=735&lines=Hi!+I'm+Ray!;%E4%BD%A0%E5%A5%BD%EF%BC%81%E6%88%91%E5%8F%AB%E5%94%90%E7%91%9E+%EF%BC%81;Student+%2B+Aspiring+Developer;Python+%2B+Java+%2B+%E4%BC%9A%E8%AF%B4%E4%B8%AD%E6%96%87;Email+Me!++%E7%BB%99%E6%88%91%E5%8F%91%E4%BF%A1%EF%BC%81)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=430&size=36&duration=3500&pause=1000&color=93D9FF&vCenter=true&width=735&lines=Hi!+I'm+Ray!;%E4%BD%A0%E5%A5%BD%EF%BC%81%E6%88%91%E5%8F%AB%E5%94%90%E7%91%9E+%EF%BC%81;Student+%2B+Aspiring+Developer;Python+%2B+Java+%2B+CPP+2B+%E4%BC%9A%E8%AF%B4%E4%B8%AD%E6%96%87;Email+Me!++%E7%BB%99%E6%88%91%E5%8F%91%E4%BF%A1%EF%BC%81)](https://git.io/typing-svg)
 
 
 <section>

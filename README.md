@@ -12,9 +12,11 @@
 * 15, Soph Year HS
 * New York, US
 * I do some coding / engineering / robotics projects from time to time
+* Schoool VEX Robotics Team Captian
+* I also do some piano comps
 * English / 简体中文
 * Bachelor's Degree in Procrastination
-* Email me !
+* Message me in discord!
 
 
 

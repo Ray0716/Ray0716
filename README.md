@@ -4,7 +4,7 @@
 
 
 <section>
-<img src="https://komarev.com/ghpvc/?username=Ray0716&color=363636&style=for-the-badge" style="float:left">
+<img src="https://komarev.com/ghpvc/?username=Ray0716&color=blueviolet&style=for-the-badge" style="float:left">
 <img src="https://img.shields.io/github/followers/Ray0716?style=for-the-badge" style="float:left">
 <img src="https://img.shields.io/github/last-commit/Ray0716/Ray0716?style=for-the-badge" style="float:left">
 </section>
@@ -12,11 +12,9 @@
 <br>
 
 * Based in New York, US
-* I do some coding / engineering / robotics projects from time to time
-* Schoool VEX Robotics Team Captian
+* I do some coding / webdev / robotics projects from time to time
+* VEX Robotics Team Captian + Club President
 * I also do some piano comps
-* English / 简体中文
-* Bachelor's Degree in Procrastination
 * Message me in discord!
 
 
@@ -38,23 +36,49 @@
 
 #
 
-#### Contact Me:
+<h3 align="left">Contact</h3>
 
-(links don't work yet :P)
+###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <a href="discordapp.com/users/866143814698532894" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="mailto:raytang11792@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
 </div>
 
+###
+
+<h4 align="left">coming soon</h4>
+
+###
+
+<div align="left">
+  <a href="example.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+  <a href="example.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="example.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
+  </a>
+  <a href="example.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="example.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
+  </a>
+</div>
+
+###
 
 
 
 
 <!---
-Ray861/Ray861 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ray0716/Ray0716 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->

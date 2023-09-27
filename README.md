@@ -23,10 +23,10 @@
 
 ### Technologies that I know / Use:
 
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,arduino,github,git,stackoverflow,md,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,html,css,arduino,github,git,stackoverflow,md,vscode)](https://skillicons.dev)
 
 ### Tech that i'm learning:
-[![My Skills](https://skillicons.dev/icons?i=js,java,cpp,cs,nodejs,express,unity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,cpp,cs,nodejs,express,unity)](https://skillicons.dev)
 
 ###
 

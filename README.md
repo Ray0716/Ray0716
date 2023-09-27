@@ -24,9 +24,10 @@
 [![My Skills](https://skillicons.dev/icons?i=python,java,html,css,arduino,github,git,stackoverflow,md,vscode,unity)](https://skillicons.dev)
 
 ### Tech that i'm learning:
+
 [![My Skills](https://skillicons.dev/icons?i=js,cpp,cs,nodejs,express)](https://skillicons.dev)
 
-###
+
 
 <div align="left">
   
@@ -34,7 +35,7 @@
 
 </div>
 
-#
+
 
 <h3 align="left">Contact</h3>
 

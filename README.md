@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chivo+Mono&weight=200&size=40&duration=4000&pause=1000&color=A0C3DC&width=435&height=102&lines=Hi!+I'm+Ray;%E4%BD%A0%E5%A5%BD%EF%BC%81%E6%88%91%E5%8F%AB%E5%94%90%E7%91%9E;Student+%2B+Developer+%2B+Pianist+%2B+Engineer;Python+%2B+Java+%2B+CPP+;%E4%BC%9A%E8%AF%B4%E4%B8%AD%E6%96%87%EF%BC%88%E7%AE%80%E4%BD%93%EF%BC%89;Message+me!++%E7%BB%99%E6%88%91%E5%8F%91%E6%B6%88%E6%81%AF%EF%BC%81)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chivo+Mono&weight=200&size=40&duration=500&pause=50&color=A0C3DC&multiline=true&repeat=false&width=876&height=982&lines=Hi!+I'm+Ray;%E4%BD%A0%E5%A5%BD%EF%BC%81%E6%88%91%E5%8F%AB%E5%94%90%E7%91%9E;Student+%2B+Dev+%2B+Piano+%2B+Research;Python+%2B+Java+%2B+C%23+;Learning+React+%26+Studying+for+USACO;%E4%BC%9A%E8%AF%B4%E4%B8%AD%E6%96%87%EF%BC%88%E7%AE%80%E4%BD%93+only%EF%BC%89;message+me!+%E7%BB%99%E6%88%91%E5%8F%91%E6%B6%88%E6%81%AF%EF%BC%81)](https://git.io/typing-svg)
 
 
 <section>

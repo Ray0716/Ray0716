@@ -12,17 +12,22 @@
 
 <br>
 
+<div styles="display:inline-block">
 
 
-* Based in New York, US
-* I do some coding / webdev / robotics projects from time to time
-* VEX Robotics Team Captian + Club President
-* I also do some piano comps
-* Message me in discord!
+* Based in New York, US <br>
+* I do some coding / webdev / robotics projects from time to time <br>
+* VEX Robotics Team Captian + Club President <br>
+* I also do some piano comps<br>
+* Message me in discord!<br>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ray0716&theme=react) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ray0716&theme=react&utcOffset=8)
+  
 
 
+  
+</div>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ray0716&theme=transparent" width="670"/> <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ray0716&theme=transparent&utcOffset=8" width="335"/>
 
 ### Technologies that I know/use:
 

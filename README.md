@@ -27,7 +27,7 @@
   
 </div>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ray0716&theme=transparent" width="450"/> <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ray0716&theme=transparent&utcOffset=8" width="225"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ray0716&theme=transparent" width="475"/> <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ray0716&theme=transparent&utcOffset=8" width="255"/>
 
 ### Technologies that I know/use:
 

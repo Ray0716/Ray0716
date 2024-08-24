@@ -20,11 +20,11 @@
 </section>
 
 * Based in New York, US <br>
-* I do some coding / webdev / robotics projects from time to time <br>
-* currently learning and experimenting with deep reinforcement learning traffic control <br>
-* VEX Robotics Team Captian + Club President <br>
-* I'm also a competitive pianist<br>
-* Message me in discord!<br>
+* I don't code much but you'll find some of my projects here <br>
+* currently in denial <br>
+* VEX Robotics Team Captian <br>
+* I'm also a competitive pianist <br>
+* Message me in discord! <br>
 
   
 

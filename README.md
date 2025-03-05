@@ -15,7 +15,7 @@
 
 <div styles="display:inline-block">
 
-<a href = "https://raytang.pages.dev/" style = "font-size: 2em;"> Visit My Website (WIP but it's more up to date than this)</a>
+<a href = "https://rayt.pages.dev/" style = "font-size: 2em;"> Visit My Website (WIP but it's more up to date than this)</a>
 
 </section>
 

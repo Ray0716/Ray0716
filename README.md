@@ -15,16 +15,10 @@
 
 <div styles="display:inline-block">
 
-<a href = "https://rayt.pages.dev/" style = "font-size: 2em;"> Visit My Website (WIP but it's more up to date than this)</a>
+<a href = "https://rayt.pages.dev/" style = "font-size: 2em;"> Visit My Website</a>
 
 </section>
 
-* Based in New York, US <br>
-* I don't code much but you'll find some of my projects here <br>
-* currently in denial <br>
-* VEX Robotics Team Captian <br>
-* I'm also a competitive pianist <br>
-* Message me in discord! <br>
 
   
 
